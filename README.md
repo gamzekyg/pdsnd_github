@@ -2,7 +2,7 @@
 08.02.2021
 
 ### Project Title
-Explore-US-Bike-Share-Data
+_Explore-US-Bike-Share-Data_
 
 ### Description
 In this project the bike usage data is analyzed according to the different cities, months and days.
