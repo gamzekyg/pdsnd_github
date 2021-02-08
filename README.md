@@ -10,9 +10,9 @@ The most common month, the most common day of week and the most common start hou
 Also the most popular start station, end station and the frequently used combination of them are observed in this project.
 
 ### Files used
-- chicago.csv
-- new_york_city.csv
-- washington.csv
+- __chicago.csv__
+- __new_york_city.csv__
+- __washington.csv__
 
 ### Credits
 https://github.com/gamzekyg/pdsnd_github
